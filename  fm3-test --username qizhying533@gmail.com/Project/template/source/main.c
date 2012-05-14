@@ -43,6 +43,8 @@
 
 int32_t main(void)
 {
+  unsigned char i;
+  i++;
   while(1);
   
 }
