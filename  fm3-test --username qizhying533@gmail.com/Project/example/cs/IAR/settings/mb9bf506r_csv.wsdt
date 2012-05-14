@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_csv/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>357</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6299-30566</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_csv</ExpandedNode><ExpandedNode>mb9bf506r_csv/common</ExpandedNode><ExpandedNode>mb9bf506r_csv/example</ExpandedNode><ExpandedNode>mb9bf506r_csv/example/main.c</ExpandedNode><ExpandedNode>mb9bf506r_csv/library</ExpandedNode><ExpandedNode>mb9bf506r_csv/library/csv_fm3.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26750-30593</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-7596-32180</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-4321-5036</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\common\system_mb9bf50x.h</Filename><XPos>0</XPos><YPos>120</YPos><SelStart>7510</SelStart><SelEnd>7510</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 6.0\arm\CMSIS\Include\core_cm3.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 6.0\arm\CMSIS\Include\core_cmInstr.h</Filename><XPos>0</XPos><YPos>354</YPos><SelStart>10156</SelStart><SelEnd>10161</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\mfs\uart\uart_fm3.c</Filename><XPos>0</XPos><YPos>683</YPos><SelStart>19737</SelStart><SelEnd>19737</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\mfs\uart\uart_fm3.h</Filename><XPos>0</XPos><YPos>64</YPos><SelStart>2679</SelStart><SelEnd>2688</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\clock\clock_fm3.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>4665</SelStart><SelEnd>4665</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\common\system_mb9bf50x.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>7821</SelStart><SelEnd>7821</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\clock\clock_fm3.h</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>3816</SelStart><SelEnd>3816</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_mb9bf50x.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2084</SelStart><SelEnd>2084</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>565</SelStart><SelEnd>565</SelEnd></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\cs\csv_fm3.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>636</SelStart><SelEnd>636</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\wd\wd_fm3.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>11038</SelStart><SelEnd>11038</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mb9bf50x_lib.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>227</SelStart><SelEnd>227</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\common\mb9bf506r.h</Filename><XPos>0</XPos><YPos>114</YPos><SelStart>8044</SelStart><SelEnd>8063</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\cs\csv_fm3.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1009</SelStart><SelEnd>1009</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\debug.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>188</SelStart><SelEnd>188</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013a6600><key>iaridepm.enu1</key></Toolbar-013a6600></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>668</Bottom><Right>447</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>148</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>150101</sizeHorzCY><sizeVertCX>350781</sizeVertCX><sizeVertCY>679513</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>274</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>276</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>279919</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>150101</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

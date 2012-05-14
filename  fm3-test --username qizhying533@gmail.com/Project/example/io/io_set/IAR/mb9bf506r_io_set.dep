@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>12370546</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\..\Source\main.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\io\io_fm3.c</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\..\Source\mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mb9bf506r_io_set.out</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\..\Source\mb9bf50x_lib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mb9bf506r_io_set.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\io\io_fm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\io_fm3.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\Source\debug.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\io_fm3.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\fm3_common.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\mb9bf506r.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 33 30 31 37 34 27 11 40 29 10 5 35 6 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 33 30 31 37 34 27 21 11 40 29 10 5 35 6 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 26 4 33 30 31 37 34 27 11 40 29 10 5 35 6 39 22 23 19 13 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 26 4 33 30 31 37 34 27 21 11 40 29 10 5 35 6 39 22 23 19 13 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\io\io_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 26 4 33 30 31 37 34 27 11 40 29 10 5 35 6 39 22 23 19 13</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 26 4 33 30 31 37 34 27 21 11 40 29 10 5 35 6 39 22 23 19 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mb9bf506r_io_set.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 24 20 28 12 9 36 38 15 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\mb9bf506r_io_set.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 25 7 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

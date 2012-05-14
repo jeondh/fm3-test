@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2068752275</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\..\driver\dmac\dmac_fm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\mb9bf506r.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mb9bf506r_dmac.out</file>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_lib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\..\source\sample_main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\fm3_common.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_main.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mb9bf506r_dmac.pbd</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dmac_fm3.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\source\mcu.h</file>
+      <file>$PROJ_DIR$\config\mb9bf506.icf</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\..\..\driver\dmac\dmac_fm3.c</file>
+      <file>$PROJ_DIR$\..\source\debug.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dmac_fm3.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mb9bf506r_dmac.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 32 38 39 14 3 1 33 4 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sample_main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 19 31 7 11 20 28 40 26 6 0 30 2 15 10 23 25 22 36 27 17 18 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 19 31 7 11 20 28 40 26 0 30 2 15 10 23 25 22 36 27 17 18 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31 7 11 20 28 40 26 6 0 30 2 15 10 23 25 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 7 11 20 28 40 26 0 30 2 15 10 23 25 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\mb9bf506r_dmac.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 29 21 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\driver\dmac\dmac_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 19 31 7 11 20 28 40 26 6 0 30 2 15 10 23 25 22 36 27 17 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 19 31 7 11 20 28 40 26 0 30 2 15 10 23 25 22 36 27 17 18</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

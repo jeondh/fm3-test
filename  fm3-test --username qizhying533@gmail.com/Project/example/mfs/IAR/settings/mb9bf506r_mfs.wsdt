@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_mfs/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>247</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files>
+    <TerminalIO/><Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1305</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20248-12654</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_mfs</ExpandedNode><ExpandedNode>mb9bf506r_mfs/Common</ExpandedNode><ExpandedNode>mb9bf506r_mfs/PreLib</ExpandedNode><ExpandedNode>mb9bf506r_mfs/PreLib/CSIO</ExpandedNode><ExpandedNode>mb9bf506r_mfs/PreLib/I2C</ExpandedNode><ExpandedNode>mb9bf506r_mfs/PreLib/UART</ExpandedNode><ExpandedNode>mb9bf506r_mfs/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21776-19175</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14625-23812</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-3471-17393</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2161</SelStart><SelEnd>2161</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\sample_uart.c</Filename><XPos>0</XPos><YPos>313</YPos><SelStart>4440</SelStart><SelEnd>4440</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\sample_csio.c</Filename><XPos>0</XPos><YPos>403</YPos><SelStart>10995</SelStart><SelEnd>10995</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012f1458><key>iaridepm.enu1</key></Toolbar-012f1458></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>366</Bottom><Right>321</Right><x>-2</x><y>-2</y><xscreen>141</xscreen><yscreen>113</yscreen><sizeHorzCX>128065</sizeHorzCX><sizeHorzCY>191525</sizeHorzCY><sizeVertCX>293370</sizeVertCX><sizeVertCY>623729</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>179</Bottom><Right>1103</Right><x>-2</x><y>-2</y><xscreen>1105</xscreen><yscreen>181</yscreen><sizeHorzCX>1003633</sizeHorzCX><sizeHorzCY>306780</sizeHorzCY><sizeVertCX>128065</sizeVertCX><sizeVertCY>191525</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

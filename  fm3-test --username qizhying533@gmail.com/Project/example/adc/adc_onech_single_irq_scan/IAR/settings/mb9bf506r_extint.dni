@@ -1,0 +1,56 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1354331840
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[watch_formats]
+Fmt0={W}0:CH	4	0
+Fmt1={W}0:EICL	4	0
+Fmt2={W}0:EIRR	4	0
+Fmt3={W}0:ELVR	4	0
+Fmt4={W}0:ENIR	4	0
+Fmt5={W}0:EPFR06	4	0
+Fmt6={W}0:IRQ04MON	4	0
+Fmt7={W}0:IRQ05MON	4	0
+Fmt8={W}0:IntPin	4	0
+Fmt9={W}0:IntPort	4	0
+Fmt10={W}0:~(1<<(IntPort+1))	4	0
+Fmt11={W}0:~(1<<IntPort)	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$}.92.14" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$}.335.4" 0 0 1 "" 0 "" 0
+Bp2=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\driver\extint\extint_fm3.c}.382.9" 0 0 1 "" 0 "" 0
+Count=3
+[Aliases]
+Count=0
+SuppressDialog=0

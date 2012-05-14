@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_qprc/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>219</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-128-8395</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_qprc</ExpandedNode><ExpandedNode>mb9bf506r_qprc/Output</ExpandedNode><ExpandedNode>mb9bf506r_qprc/common</ExpandedNode><ExpandedNode>mb9bf506r_qprc/driver</ExpandedNode><ExpandedNode>mb9bf506r_qprc/source_files</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-13079-20753</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\List\mb9bf506r_uartrxtx_noirq.map</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Program Files\IAR Systems\Embedded Workbench 6.0\arm\lib\dl7M_tln.a</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Program Files\IAR Systems\Embedded Workbench 6.0\arm\config\generic_cortex.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Program Files\IAR Systems\Embedded Workbench 6.0\arm\lib\m7M_tl.a</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\Obj\main.o</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Program Files\IAR Systems\Embedded Workbench 6.0\arm\lib\rt7M_tl.a</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Program Files\IAR Systems\Embedded Workbench 6.0\arm\lib\shb_l.a</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\Obj\system_mb9bf50x.o</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\Exe\mb9bf506r_qprc.out</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_mb9bf50x.s</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>8254</SelStart><SelEnd>8254</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>2737</SelStart><SelEnd>2737</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\qprc\qprc_fm3.c</Filename><XPos>0</XPos><YPos>273</YPos><SelStart>7874</SelStart><SelEnd>7874</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\head_in_one.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1367</SelStart><SelEnd>1367</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mcu.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2933</SelStart><SelEnd>2933</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\driver\qprc\qprc_fm3.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>887</SelStart><SelEnd>887</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\common\system_mb9bf50x.c</Filename><XPos>0</XPos><YPos>129</YPos><SelStart>5879</SelStart><SelEnd>5892</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mb9bf50x_lib.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1178</SelStart><SelEnd>1178</SelEnd></Tab><ActiveTab>16</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\common\fm3_common.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>682</SelStart><SelEnd>682</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01e75550><key>iaridepm.enu1</key></Toolbar-01e75550></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>672</Bottom><Right>293</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>218818</sizeHorzCY><sizeVertCX>230469</sizeVertCX><sizeVertCY>737418</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>218818</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>218818</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

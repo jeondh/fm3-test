@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_io_set/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>167</Column0><Column1>43</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>828</ColumnWidth1><ColumnWidth2>341</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-634-27331</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_io_set</ExpandedNode><ExpandedNode>mb9bf506r_io_set/Common</ExpandedNode><ExpandedNode>mb9bf506r_io_set/PreLib</ExpandedNode><ExpandedNode>mb9bf506r_io_set/Source</ExpandedNode><ExpandedNode>mb9bf506r_io_set/Startup</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25164-654</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-7985-2637</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\io\io_fm3.c</Filename><XPos>0</XPos><YPos>729</YPos><SelStart>9456</SelStart><SelEnd>9456</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\io\io_fm3.h</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>4309</SelStart><SelEnd>4309</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\main.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1266</SelStart><SelEnd>1266</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\debug.h</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>1378</SelStart><SelEnd>1378</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01bfd448><key>iaridepm.enu1</key></Toolbar-01bfd448></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>434</Bottom><Right>257</Right><x>-2</x><y>-2</y><xscreen>148</xscreen><yscreen>136</yscreen><sizeHorzCX>108346</sizeHorzCX><sizeHorzCY>198251</sizeHorzCY><sizeVertCX>189605</sizeVertCX><sizeVertCY>635569</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>207</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>209</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>304665</sizeHorzCY><sizeVertCX>108346</sizeVertCX><sizeVertCY>198251</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

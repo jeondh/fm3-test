@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_adc12/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>172</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>981</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><WATCH_1><PreferedWindows><Position>4</Position><ScreenPosX>1028</ScreenPosX><ScreenPosY>132</ScreenPosY><Windows/></PreferedWindows></WATCH_1></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30877-18632</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_adc12</ExpandedNode><ExpandedNode>mb9bf506r_adc12/PeriLib</ExpandedNode><ExpandedNode>mb9bf506r_adc12/common</ExpandedNode><ExpandedNode>mb9bf506r_adc12/source_files</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14400-25695</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_mb9bf50x.s</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>3277</SelStart><SelEnd>3288</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mb9bf50x_int.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3118</SelStart><SelEnd>3118</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>4783</SelStart><SelEnd>4783</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mcu.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>2945</SelStart><SelEnd>2945</SelEnd></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01385a08><key>iaridepm.enu1</key></Toolbar-01385a08></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>427</Bottom><Right>246</Right><x>-2</x><y>-2</y><xscreen>111</xscreen><yscreen>98</yscreen><sizeHorzCX>81259</sizeHorzCX><sizeHorzCY>140000</sizeHorzCY><sizeVertCX>181552</sizeVertCX><sizeVertCY>612857</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>229</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>231</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>330000</sizeHorzCY><sizeVertCX>81259</sizeVertCX><sizeVertCY>140000</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

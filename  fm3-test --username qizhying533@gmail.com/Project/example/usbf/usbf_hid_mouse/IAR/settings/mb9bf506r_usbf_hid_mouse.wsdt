@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_usbf_hid_mouse/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>258</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>665</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10871-8820</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_usbf_hid_mouse</ExpandedNode><ExpandedNode>mb9bf506r_usbf_hid_mouse/App</ExpandedNode><ExpandedNode>mb9bf506r_usbf_hid_mouse/Common</ExpandedNode><ExpandedNode>mb9bf506r_usbf_hid_mouse/Startup</ExpandedNode><ExpandedNode>mb9bf506r_usbf_hid_mouse/USBFLib</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15827-10365</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-20220-18470</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-2901-15784</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\stdint.h</Filename><XPos>0</XPos><YPos>237</YPos><SelStart>213</SelStart><SelEnd>213</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\assert.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2669</SelStart><SelEnd>2669</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\stdbool.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>232</SelStart><SelEnd>232</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\CMSIS\Include\core_cmFunc.h</Filename><XPos>0</XPos><YPos>467</YPos><SelStart>1369</SelStart><SelEnd>1369</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\CMSIS\Include\core_cmInstr.h</Filename><XPos>0</XPos><YPos>248</YPos><SelStart>7828</SelStart><SelEnd>7828</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\wc\wc_fm3.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\head_in_one.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1208</SelStart><SelEnd>1227</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\wchar.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mcu.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>2957</SelStart><SelEnd>2957</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\CMSIS\Include\core_cm3.h</Filename><XPos>0</XPos><YPos>999</YPos><SelStart>62750</SelStart><SelEnd>62766</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\system_mb9bf50x.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>2418</SelStart><SelEnd>2418</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\mb9bf506r.h</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>4622</SelStart><SelEnd>4622</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_mb9bf50x.s</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>4700</SelStart><SelEnd>4700</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\system_mb9bf50x.h</Filename><XPos>0</XPos><YPos>606</YPos><SelStart>23895</SelStart><SelEnd>23895</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\ctype.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench V6.21\arm\inc\c\DLib_Defaults.h</Filename><XPos>0</XPos><YPos>76</YPos><SelStart>2841</SelStart><SelEnd>2841</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>196</SelStart><SelEnd>196</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>410</SelStart><SelEnd>410</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_dma_fm3.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>109</SelStart><SelEnd>109</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_dma_fm3.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>241</SelStart><SelEnd>241</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\usb_hooks.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>164</SelStart><SelEnd>164</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\usb_dev_desc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>186</SelStart><SelEnd>186</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\buttons.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>206</SelStart><SelEnd>206</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\buttons.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>157</SelStart><SelEnd>161</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\global_define.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>218</SelStart><SelEnd>222</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_desc_fm3.h</Filename><XPos>1</XPos><YPos>0</YPos><SelStart>180</SelStart><SelEnd>180</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\debug.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>203</SelStart><SelEnd>203</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\hid.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>157</SelStart><SelEnd>157</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\hid_mouse.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>174</SelStart><SelEnd>174</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\hid_mouse.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>99</SelStart><SelEnd>99</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\usb_cnfg.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1091</SelStart><SelEnd>1091</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\usb_comm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>166</SelStart><SelEnd>166</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\usb_dev_desc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>173</SelStart><SelEnd>173</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_core_fm3.c</Filename><XPos>0</XPos><YPos>415</YPos><SelStart>13820</SelStart><SelEnd>13820</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_core_fm3.h</Filename><XPos>0</XPos><YPos>238</YPos><SelStart>9207</SelStart><SelEnd>9207</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_hw_fm3.c</Filename><XPos>0</XPos><YPos>596</YPos><SelStart>16974</SelStart><SelEnd>16974</SelEnd></Tab><ActiveTab>35</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\usbf\usb_hw_fm3.h</Filename><XPos>0</XPos><YPos>140</YPos><SelStart>5380</SelStart><SelEnd>5380</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-014969b8><key>iaridepm.enu1</key></Toolbar-014969b8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>490</Bottom><Right>332</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>273224</sizeHorzCY><sizeVertCX>260938</sizeVertCX><sizeVertCY>672131</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>273224</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>273224</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
