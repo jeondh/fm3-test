@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mb9bf506r_template/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>216</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>320</ColumnWidth2><ColumnWidth3>80</ColumnWidth3></Build>
+    <TerminalIO/><Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Find-in-Files><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1622</ColumnWidth1><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4914-27344</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_template</ExpandedNode><ExpandedNode>mb9bf506r_template/common</ExpandedNode><ExpandedNode>mb9bf506r_template/source_files</ExpandedNode><ExpandedNode>mb9bf506r_template/source_files/Test</ExpandedNode><ExpandedNode>mb9bf506r_template/source_files/driver</ExpandedNode><ExpandedNode>mb9bf506r_template/source_files/driver/mft</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_FRT.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>990</SelStart><SelEnd>990</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_OCU.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>653</SelStart><SelEnd>653</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_WFG.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1756</SelStart><SelEnd>1756</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_ADCMP.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1039</SelStart><SelEnd>1039</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1427</SelStart><SelEnd>1427</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_ADCMP.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>662</SelStart><SelEnd>662</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_FRT.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>1590</SelStart><SelEnd>1590</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\mft_frt_fm3.c</Filename><XPos>0</XPos><YPos>496</YPos><SelStart>15424</SelStart><SelEnd>15424</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mb9bf50x_int.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>910</SelStart><SelEnd>910</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\mb9bf50x_lib.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>1140</SelStart><SelEnd>1140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\fm3_common.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1527</SelStart><SelEnd>1527</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\debug.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1384</SelStart><SelEnd>1384</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_mb9bf50x.s</Filename><XPos>0</XPos><YPos>305</YPos><SelStart>13486</SelStart><SelEnd>13486</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_OCU.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1593</SelStart><SelEnd>1593</SelEnd></Tab><ActiveTab>13</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_WFG.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1318</SelStart><SelEnd>1318</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\system_mb9bf50x.c</Filename><XPos>0</XPos><YPos>34</YPos><SelStart>5240</SelStart><SelEnd>5240</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012f1458><key>iaridepm.enu1</key></Toolbar-012f1458></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>779</Bottom><Right>290</Right><x>-2</x><y>-2</y><xscreen>226</xscreen><yscreen>177</yscreen><sizeHorzCX>156944</sizeHorzCX><sizeHorzCY>214806</sizeHorzCY><sizeVertCX>202778</sizeVertCX><sizeVertCY>947816</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

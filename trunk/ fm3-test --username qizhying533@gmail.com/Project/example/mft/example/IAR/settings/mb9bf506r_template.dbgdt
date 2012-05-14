@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>187</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>gINT</item><item>gINT16</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths></WATCH_1><Tool-Output/><Register/><Locals><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>150</item><item>100</item><item>100</item><item>100</item></col-widths></Locals><TerminalIO><InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints></Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17679-21723</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-17156-21733</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-30231-3960</Identity><TabName>Tool Output</TabName><Factory>Tool-Output</Factory><Session/></Tab><Tab><Identity>TabID-3862-4659</Identity><TabName>Terminal I/O</TabName><Factory>TerminalIO</Factory><Session/></Tab><Tab><Identity>TabID-1938-4081</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>9</Group><States>2</States><State0>MFT0_OCSA32</State0><State1>MFT0_OCSB32</State1></Session></Tab><Tab><Identity>TabID-18562-5323</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>4</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28427-21726</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mb9bf506r_template</ExpandedNode><ExpandedNode>mb9bf506r_template/source_files</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-29600-14140</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab><Tab><Identity>TabID-28697-19864</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab><Tab><Identity>TabID-8504-4163</Identity><TabName>Locals</TabName><Factory>Locals</Factory></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\TEST_MFT_OCU.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>951</SelStart><SelEnd>951</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\TEST_MFT_OCU.h</Filename><XPos>0</XPos><YPos>31</YPos><SelStart>1217</SelStart><SelEnd>1217</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\Drv_MFT_FRT.c</Filename><XPos>0</XPos><YPos>924</YPos><SelStart>32497</SelStart><SelEnd>32497</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\Drv_MFT_WFG.c</Filename><XPos>0</XPos><YPos>646</YPos><SelStart>24119</SelStart><SelEnd>24119</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\TEST_MFT_WFG.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>822</SelStart><SelEnd>822</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\TEST_MFT_ADCMP.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>908</SelStart><SelEnd>908</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\main.c</Filename><XPos>0</XPos><YPos>25</YPos><SelStart>1398</SelStart><SelEnd>1398</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\Drv_MFT_ADCMP.c</Filename><XPos>0</XPos><YPos>570</YPos><SelStart>19862</SelStart><SelEnd>19862</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\debug.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_FRT.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>1280</SelStart><SelEnd>1280</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\common\system_mb9bf50x.c</Filename><XPos>0</XPos><YPos>143</YPos><SelStart>6728</SelStart><SelEnd>6728</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\Drv_MFT_FRT.h</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>3720</SelStart><SelEnd>3720</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_FRT.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1470</SelStart><SelEnd>1470</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_OCU.h</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>2656</SelStart><SelEnd>2659</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\EXMP_MFT_OCU.c</Filename><XPos>0</XPos><YPos>94</YPos><SelStart>2838</SelStart><SelEnd>2838</SelEnd></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\driver\mft\Drv_MFT_OCU.c</Filename><XPos>0</XPos><YPos>109</YPos><SelStart>4296</SelStart><SelEnd>4296</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01e75ca8><key>iaridepm.enu1</key></Toolbar-01e75ca8></Sizes></Row0><Row1><Sizes><Toolbar-031ea6e8><key>debuggergui.enu1</key></Toolbar-031ea6e8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>660</Bottom><Right>261</Right><x>-2</x><y>-2</y><xscreen>263</xscreen><yscreen>209</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>214579</sizeHorzCY><sizeVertCX>156548</sizeVertCX><sizeVertCY>679671</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>660</Bottom><Right>364</Right><x>-2</x><y>-2</y><xscreen>263</xscreen><yscreen>266</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>273101</sizeHorzCY><sizeVertCX>217857</sizeVertCX><sizeVertCY>679671</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>246</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>248</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>254620</sizeHorzCY><sizeVertCX>156548</sizeVertCX><sizeVertCY>214579</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

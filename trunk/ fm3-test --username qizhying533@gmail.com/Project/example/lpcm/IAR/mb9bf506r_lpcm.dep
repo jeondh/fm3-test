@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3380297230</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\source\mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\config\mb9bf506.icf</file>
+      <file>$PROJ_DIR$\..\..\..\driver\lpcm\lpcm_fm3.h</file>
+      <file>$PROJ_DIR$\..\source\debug.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\mb9bf506r_lpcm.pbd</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\source\sample_main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lpcm_fm3.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\common\fm3_common.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mb9bf506r_lpcm.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lpcm_fm3.o</file>
+      <file>$PROJ_DIR$\..\..\..\common\mb9bf506r.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_lib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\..\driver\lpcm\lpcm_fm3.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_main.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\mb9bf506r_lpcm.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 18 40 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sample_main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32 19 0 28 7 6 33 24 1 9 17 26 35 8 38 21 29 20 5 37 13 30 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0 28 7 6 33 24 1 9 17 26 35 8 38 21 29 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 28 7 6 33 24 1 17 26 35 8 38 21 29 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mb9bf506r_lpcm.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 3 27 34 15 10 36 12 31 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\driver\lpcm\lpcm_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 19 0 28 7 6 33 24 1 9 17 26 35 8 38 21 29 20 5 37 13 30</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 19 0 28 7 6 33 24 1 17 26 35 8 38 21 29 20 5 37 13 30</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>155756183</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_lib.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\basetimer_fm3.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\..\..\..\driver\bt\basetimer_fm3.c</file>
+      <file>$PROJ_DIR$\..\..\..\driver\clock\clock_fm3.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\basetimer_fm3.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\driver\clock\clock_fm3.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\startup_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\source\debug.h</file>
+      <file>$PROJ_DIR$\..\source\main.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\clock_fm3.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\driver\bt\basetimer_fm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\clock_fm3.pbi</file>
+      <file>$PROJ_DIR$\output\debug\exe\mb9bf506r_clock.out</file>
+      <file>$PROJ_DIR$\output\debug\obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\mb9bf506r.h</file>
+      <file>$PROJ_DIR$\config\mb9bf506.icf</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\system_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\system_mb9bf50x.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\source\mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\..\common\fm3_common.h</file>
+      <file>$PROJ_DIR$\output\debug\list\mb9bf506r_clock.map</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mb9bf506r_clock.pbd</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 24 26 4 38 23 36 19 43 32 30 17 34 13 44 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 24 26 4 38 23 36 43 32 30 17 34 13 44 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\driver\bt\basetimer_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 39 35 24 26 4 38 23 36 19 43 32 30 17 34 13 44 3 14 41 42 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 39 35 24 26 4 38 23 36 43 32 30 17 34 13 44 3 14 41 42 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\driver\clock\clock_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 39 35 24 26 4 38 23 36 19 43 32 30 17 34 13 44 3 14 41 42 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 39 35 24 26 4 38 23 36 43 32 30 17 34 13 44 3 14 41 42 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 21 40</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0 39 35 24 26 4 38 23 36 19 43 32 30 17 34 13 44 3 14 41 42 28 18 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 39 35 24 26 4 38 23 36 43 32 30 17 34 13 44 3 14 41 42 28 18 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\debug\exe\mb9bf506r_clock.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 25 1 16 33 12 27 6 29 5 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\debug\obj\mb9bf506r_clock.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 10 20 22 31</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\output\release\obj\startup_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\source\main.c</file>
+      <file>$PROJ_DIR$\output\release\obj\main.pbi</file>
+      <file>$PROJ_DIR$\output\release\obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\output\release\exe\mb9bf506r_template.srec</file>
+      <file>$PROJ_DIR$\output\release\obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\..\..\common\system_mb9bf50x.h</file>
+      <file>$PROJ_DIR$\..\..\common\mb9bf506r.h</file>
+      <file>$PROJ_DIR$\output\release\obj\mb9bf506r_template.pbd</file>
+      <file>$PROJ_DIR$\output\release\obj\system_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\output\release\list\mb9bf506r_template.map</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\output\release\exe\mb9bf506r_template.out</file>
+      <file>$PROJ_DIR$\config\mb9bf506.icf</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\source\mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 15 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 12 21 0 29 17 27 8 30 24 23 16 25 4 31 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\release\obj\mb9bf506r_template.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 6 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 12 21 0 29 17 27 8 30 24 23 16 25 4 31 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\release\exe\mb9bf506r_template.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20 7 2 14 22 1 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

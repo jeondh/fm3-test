@@ -1,0 +1,67 @@
+/*!
+ ******************************************************************************
+ **
+ ** \file main.c
+ **
+ ** \brief Basetimer sample code.
+ **
+ ** \author
+ **
+ ** \version V0.01
+ **
+ ** \date 2011-11-10
+ **
+ ** \attention THIS SAMPLE CODE IS PROVIDED AS IS. FUJITSU SEMICONDUCTOR
+ **            ACCEPTS NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR
+ **            OMMISSIONS.
+ **
+ ** (C) Copyright 200x-201x by Fujitsu Semiconductor(Shanghai) Co.,Ltd.
+ **
+ ******************************************************************************
+ **
+ ** \note Other information.
+ **
+ ******************************************************************************
+ */
+
+/*---------------------------------------------------------------------------*/
+/* include files                                                             */
+/*---------------------------------------------------------------------------*/
+#include "head_in_one.h"
+
+
+/*---------------------------------------------------------------------------*/
+/* global functions                                                          */
+/*---------------------------------------------------------------------------*/
+extern void ExamplePwm(void);
+extern void ExamplePwc(void);
+extern void ExamplePpg(void);
+extern void ExampleRt(void);
+
+
+
+void main(void)
+{     
+    ExamplePwm();
+    //ExamplePpg();
+    //ExampleRt();
+    //ExamplePwc();
+    
+    #ifdef CLOCK_TEST
+    CLOCK_MasterClockSwitch(CLOCK_PLL_OSC);
+    Delay(5);    
+    CLOCK_MasterClockSwitch(CLOCK_HIGH_CR);
+    Delay(5);     
+    CLOCK_MasterClockSwitch(CLOCK_LOW_CR);
+    Delay(5);     
+    CLOCK_MasterClockSwitch(CLOCK_MAIN_OSC);
+    Delay(5);    
+    CLOCK_MasterClockSwitch(CLOCK_SUB_OSC);
+    Delay(5);      
+    CLOCK_MasterClockSwitch(CLOCK_PLL_OSC);
+    Delay(5); 
+    #endif
+    while(1);
+}
+/*****************************************************************************/
+/* END OF FILE */

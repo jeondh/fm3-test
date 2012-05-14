@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1395683419</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\mb9bf506r_wd_soft.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\wd_fm3.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\Source\mb9bf50x_lib.h</file>
+      <file>$PROJ_DIR$\..\Source\debug.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mb9bf506r_wd_soft.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\wd\wd_fm3.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\wd_fm3.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\wd\wd_fm3.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\..\Source\main.c</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\fm3_common.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\Source\mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_mb9bf50x.o</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\mb9bf506r.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\mb9bf506r_wd_soft.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 7 2 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mb9bf506r_wd_soft.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 37 0 38 24 15 39 22 18 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\wd\wd_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 33 35 40 28 31 8 16 26 30 4 27 32 29 36 34 6 11 23 13 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 33 35 40 28 31 8 16 26 9 30 4 27 32 29 36 34 6 11 23 13 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 40 28 31 8 16 26 30 4 27 32 29 36 34 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 40 28 31 8 16 26 9 30 4 27 32 29 36 34 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 33 35 40 28 31 8 16 26 30 4 27 32 29 36 34 6 11 23 13 25 17</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 33 35 40 28 31 8 16 26 9 30 4 27 32 29 36 34 6 11 23 13 25 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

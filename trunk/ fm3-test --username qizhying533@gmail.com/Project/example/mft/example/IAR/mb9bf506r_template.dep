@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>874297825</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_OCU.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\mb9bf50x_int.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_wfg_fm3.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_FRT.pbi</file>
+      <file>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_wfg_fm3.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_OCU.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_OCU.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_ADCMP.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_WFG.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_OCU.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_FRT.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_OCU.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_ADCMP.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_ADCMP.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_FRT.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_WFG.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_adcmp_fm3.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\startup_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\wc\wc_fm3.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$PROJ_DIR$\output\debug\obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_ADCMP.o</file>
+      <file>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_WFG.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_OCU.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_OCU.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_frt_fm3.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_FRT.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_WFG.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mb9bf50x_int.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_OCU.h</file>
+      <file>$PROJ_DIR$\output\debug\exe\mb9bf506r_template.out</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_FRT.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_OCU.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_FRT.pbi</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_ADCMP.c</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_ADCMP.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_WFG.o</file>
+      <file>$PROJ_DIR$\config\mb9bf506_ram.icf</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_WFG.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_WFG.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_ADCMP.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_WFG.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\head_in_one.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_FRT.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_ADCMP.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\global_define.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_adcmp_fm3.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_fm3.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_ADCMP.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_FRT.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mb9bf506r_template.pbd</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_WFG.c</file>
+      <file>$PROJ_DIR$\..\..\driver\mft\Test\TEST_MFT_FRT.c</file>
+      <file>$PROJ_DIR$\output\debug\obj\EXMP_MFT_ADCMP.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_ocu_fm3.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_OCU.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\TEST_MFT_FRT.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_frt_fm3.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_WFG.o</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_FRT.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\mb9bf506r.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_FRT.o</file>
+      <file>$PROJ_DIR$\output\debug\obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\output\debug\obj\system_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_WFG.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\mft_ocu_fm3.o</file>
+      <file>$PROJ_DIR$\..\source\TEST_MFT_OCU.h</file>
+      <file>$PROJ_DIR$\output\debug\obj\Drv_MFT_ADCMP.o</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\..\..\Readme.txt</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_frt_fm3.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_adcmp_fm3.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_frt_fm3.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_ocu_fm3.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_ocu_fm3.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_wfg_fm3.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_wfg_fm3.h</file>
+      <file>$PROJ_DIR$\..\source\debug.h</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_ADCMP.c</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_ADCMP.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driver\mft\mft_adcmp_fm3.c</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_FRT.c</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_FRT.h</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_OCU.c</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_OCU.h</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_WFG.c</file>
+      <file>$PROJ_DIR$\..\source\EXMP_MFT_WFG.h</file>
+      <file>$PROJ_DIR$\..\source\main.c</file>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_int.c</file>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_lib.h</file>
+      <file>$PROJ_DIR$\..\source\mcu.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_ADCMP.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 20 40 38 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\TEST_MFT_OCU.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 88</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 59 37 28 67 78 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 88</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_ADCMP.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_WFG.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\debug\exe\mb9bf506r_template.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 50 72 15 9 55 27 2 60 79 87 7 24 85 43 44 13 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_OCU.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\TEST_MFT_ADCMP.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 59 37 28 67 78 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 48</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_WFG.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 20 40 38 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_FRT.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 20 40 38 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_FRT.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\debug\obj\mb9bf506r_template.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 58 36 8 52 12 39 23 34 74 3 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\TEST_MFT_WFG.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 86</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 59 37 28 67 78 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 86</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\driver\mft\Test\TEST_MFT_FRT.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\Drv_MFT_OCU.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 20 40 38 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\TEST_MFT_FRT.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 59 37 28 67 78 68 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 59 37 28 67 78 33 21 65 76 4 113 82 18 73 64 35 61 54 0 100 25 62 20 40 38 63 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\mft_frt_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\mft_ocu_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\mft_wfg_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\EXMP_MFT_ADCMP.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 112</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\driver\mft\mft_adcmp_fm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\EXMP_MFT_FRT.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105 112</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\EXMP_MFT_OCU.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107 112</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\EXMP_MFT_WFG.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 112</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 105 107 109 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\mb9bf50x_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_ADCMP.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_WFG.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_OCU.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\driver\mft\Drv_MFT_FRT.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\driver\mft\Test\TEST_MFT_FRT.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\output\release\obj\startup_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\output\release\obj\system_mb9bf50x.pbi</file>
+      <file>$PROJ_DIR$\config\mb9bf506.icf</file>
+      <file>$PROJ_DIR$\output\release\obj\mb9bf50x_int.pbi</file>
+      <file>$PROJ_DIR$\output\release\obj\main.o</file>
+      <file>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\output\release\obj\main.pbi</file>
+      <file>$PROJ_DIR$\output\release\list\mb9bf506r_template.map</file>
+      <file>$PROJ_DIR$\output\release\obj\system_mb9bf50x.o</file>
+      <file>$PROJ_DIR$\output\release\obj\mb9bf506r_template.pbd</file>
+      <file>$PROJ_DIR$\output\release\exe\mb9bf506r_template.srec</file>
+      <file>$PROJ_DIR$\output\release\exe\mb9bf506r_template.out</file>
+      <file>$PROJ_DIR$\startup_mb9bf50x.s</file>
+      <file>$PROJ_DIR$\..\source\main.c</file>
+      <file>$PROJ_DIR$\..\source\mb9bf50x_int.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 10 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\release\obj\mb9bf506r_template.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 9 4 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\output\release\exe\mb9bf506r_template.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 3 5 1 11 8 7 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mb9bf50x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\mb9bf50x_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\common\system_mb9bf50x.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\source\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
